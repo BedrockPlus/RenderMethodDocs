@@ -2,7 +2,7 @@
 
 #### **Warning**
 
-> We don't recommend you learning magic method if you don't have a basic understanding of Minecraft texture pack coding and how to edit entity files.
+> We don't recommend you learning render method if you don't have a basic understanding of Minecraft texture pack coding and how to edit entity files.
 
 ## 🔮 What is render method?
 Render method is another method first used by Chainsketch and I that hasn't been used by the community like it should be. This method allows you to remove lag in an enormous amount by removing the amount of render controllers needed. For example, if you are rendering three numbers, you can render them all at once instead of having three render controllers for each digit.
